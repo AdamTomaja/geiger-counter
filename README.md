@@ -20,6 +20,7 @@ Using this project You will be able to monitor current radiation in Your room.
 ![image](images/radiationd.png)
 
 # Helpful resources
-[Calibration guide](docs/En_Calibration_GMv1.1.pdf)
-[Data conversion](docs/How%20to%20convert%20the%20conuters%20from%20Geiger%20Counter%20Kit.pdf)
-[Board schematics](docs/Sch__Geiger%20Counter%20Kit-v1.1.pdf)
+* [Calibration guide](docs/En_Calibration_GMv1.1.pdf)
+* [Data conversion](docs/*How%20to%20convert%20the%20conuters%20from%20Geiger%20Counter%20Kit.pdf)
+* [Geiger Board schematics](docs/Sch__Geiger%20Counter%20Kit-v1.1.pdf)
+* [ESP32 Devkit pinout](images/ESP32-Pinout.jpg)
